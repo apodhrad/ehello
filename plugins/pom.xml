@@ -10,10 +10,10 @@
 	<artifactId>plugins</artifactId>
 	<name>EHello Plugins</name>
 	<packaging>pom</packaging>
-	
-	
+		
 	<modules>
 		<module>org.apodhrad.example.ehello</module>
+		<module>org.apodhrad.example.ehello.rcp</module>
 	</modules>
 	
 </project>

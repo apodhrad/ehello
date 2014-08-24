@@ -14,6 +14,7 @@
 	
 	<modules>
 		<module>org.apodhrad.example.ehello.feature</module>
+		<module>org.apodhrad.example.ehello.rcp.feature</module>
 	</modules>
 	
 </project>

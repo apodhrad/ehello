@@ -17,7 +17,8 @@
 	<modules>
                 <module>plugins</module>
 		<module>features</module>
-                <module>product</module>
+                <!--module>product</module-->
+                <module>product2</module>
 	</modules>
 	
 	<build>
